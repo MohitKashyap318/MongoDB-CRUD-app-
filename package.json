@@ -1,0 +1,28 @@
+{
+  "name": "productsapp",
+  "version": "1.0.0",
+  "description": "just a CRUD by using mongodb and mLab",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "mohit kashyap",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "mongoose": "^5.0.11"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohitKashyap318/MongoDB-CRUD-app-.git"
+  },
+  "keywords": [
+    "mohit"
+  ],
+  "bugs": {
+    "url": "https://github.com/MohitKashyap318/MongoDB-CRUD-app-/issues"
+  },
+  "homepage": "https://github.com/MohitKashyap318/MongoDB-CRUD-app-#readme"
+}
